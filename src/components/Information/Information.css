@@ -1,0 +1,31 @@
+.information{
+    height: 500px;
+    background-color: rgb(0, 0, 0);
+}
+.information-container{
+    width: 90%;
+    margin: 0 auto;
+}
+.paragraphs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.prg h1{
+   text-align: center;
+   font-size: 4rem;
+   color: rgb(226, 122, 43);
+}
+.prg p{
+    color: #fff;
+}
+.prg .p2{
+    color:  rgb(226, 122, 43);
+    width: 200px;
+}
+.information-container h1{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+    color: rgb(226, 122, 43);;
+}
